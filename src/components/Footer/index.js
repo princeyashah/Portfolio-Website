@@ -1,3 +1,4 @@
+import React from 'react';
 import styled from 'styled-components';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
@@ -103,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Rishav Chanda. All rights reserved.
+          &copy; 2024 Harnil Shah. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
