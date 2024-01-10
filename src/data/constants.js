@@ -334,7 +334,7 @@ export const projects = [
     title: "Pushing custom memory metrics to AWS CloudWatch",
     date: "Apr 2023",
     description:
-      "",
+      "This project is based on pushing the custom memory metrics to CloudWatch for an EC2 Linux server with Golden AMI",
     image:
       "https://d3h0owdjgzys62.cloudfront.net/images/7802/live_cover_art/thumb2x/cloudwatch.png",
     tags: ["Github", "AWS Cloudwatch", "AWS IAM", "AWS EC2", "Ubuntu" ],
