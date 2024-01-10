@@ -250,7 +250,7 @@ export const projects = [
     title: "AWS VPC Creation with Terraform & GitHub Actions Automation",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "In this project, we will automate the creation of an AWS Virtual Private Cloud (VPC) using Terraform, and you will set up GitHub Actions for continuous deployment. A VPC is a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network.",
     image:
       "https://igorzhivilo.com/assets/images/github-actions/tf-example/0.png",
     tags: [
@@ -281,7 +281,7 @@ export const projects = [
     title: "Deploying a Node.js Application using AWS ECS & ECR",
     date: "Oct 2022 - Present",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "In this project, we deployed a Node.js web application using AWS Elastic Container Service (ECS) and Elastic Container Registry (ECR). ECS is a fully managed container orchestration service that makes it easy to run, stop, and manage Docker containers on a cluster. ECR is a fully managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.",
     image:
       "https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Amazon-Elastic-Container-Service-Monitoring.component.complex-narrative-xl.ts=1692795531719.png/content/adobe-cms/de/de/products/instana/supported-technologies/amazon-elastic-container-service-monitoring/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage",
     tags: [
