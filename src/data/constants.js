@@ -150,7 +150,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQG7H_5xlpRJCQ/company-logo_200_200/0/1631324916962?e=1711584000&v=beta&t=UwLkciJ7vlJ8YWHUIpNSmB77Q1MbhcZXJ8m_JuhTDZ4",
     role: "DevOps Engineer",
     company: "Cilans System",
     date: "Sep 2023 - Present",
@@ -167,7 +166,6 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQG7H_5xlpRJCQ/company-logo_200_200/0/1631324916962?e=1711584000&v=beta&t=UwLkciJ7vlJ8YWHUIpNSmB77Q1MbhcZXJ8m_JuhTDZ4",
     role: "DevOps Engineer Intern",
     company: "Savitriya Technologies",
     date: "May 2023 - July 2023",
@@ -183,7 +181,6 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://media.licdn.com/dms/image/C4D0BAQFPPFXJdBjh-A/company-logo_200_200/0/1630554799937?e=1711584000&v=beta&t=1WLkarYsMcndlNThpbOvmaXnB6HErTxhOmkzb7RdA00",
     role: "Cloud Lead",
     company: "Club Gamma",
     date: "Sep 2022 - Sep 2023",
@@ -199,7 +196,6 @@ export const experiences = [
 
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C560BAQG7H_5xlpRJCQ/company-logo_200_200/0/1631324916962?e=1711584000&v=beta&t=UwLkciJ7vlJ8YWHUIpNSmB77Q1MbhcZXJ8m_JuhTDZ4",
     role: "Python Intern",
     company: "Prolog Infotech",
     date: "May 2022 - June 2022",
@@ -235,7 +231,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.famd10-1.fna.fbcdn.net/v/t39.30808-6/243046989_201036728795243_7880768559093046295_n.png?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Jj0Js1KeFvMAX8QW28q&_nc_ht=scontent.famd10-1.fna&oh=00_AfC_Htl9UAdnfUTFxas7QPyjfbnNuNHIhbQbLxATWTSCdw&oe=659E356F",
+    img: "https://www.findmyshala.com/uploads/thumb/69_69_1530948592_school_logo_07072018125952.jpg",
     school: "Nirman High School",
     date: "Till 2018",
     grade: "85%",
@@ -338,7 +334,7 @@ export const projects = [
     title: "Pushing custom memory metrics to AWS CloudWatch",
     date: "Apr 2023",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "",
     image:
       "https://d3h0owdjgzys62.cloudfront.net/images/7802/live_cover_art/thumb2x/cloudwatch.png",
     tags: ["Github", "AWS Cloudwatch", "AWS IAM", "AWS EC2", "Ubuntu" ],
