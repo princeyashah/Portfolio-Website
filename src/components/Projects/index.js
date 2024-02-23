@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          {/* I have worked on a wide range of projects. From web apps to DevOps. Here are some of my projects. */}
+          {/* I have worked on a wide range of projects. From Analog to Digital. Here are some of my projects. */}
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -21,22 +21,22 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>DEVOPS</ToggleButton>
+          {toggle === 'ANALOG DESIGN' ?
+            <ToggleButton active value="ANALOG DESIGN" onClick={() => setToggle('ANALOG DESIGN')}>ANALOG DESIGN</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('web app')}>DEVOPS</ToggleButton>
+            <ToggleButton value="ANALOG DESIGN" onClick={() => setToggle('ANALOG DESIGN')}>ANALOG DESIGN</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>WEB APP'S</ToggleButton>
+          {toggle === 'PHYSICAL DESIGN' ?
+            <ToggleButton active value="PHYSICAL DESIGN" onClick={() => setToggle('PHYSICAL DESIGN')}>PHYSICAL DESIGN</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>WEB APP'S</ToggleButton>
+            <ToggleButton value="PHYSICAL DESIGN" onClick={() => setToggle('PHYSICAL DESIGN')}>PHYSICAL DESIGN</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+          {toggle === 'CMOS' ?
+            <ToggleButton active value="CMOS" onClick={() => setToggle('CMOS')}>CMOS</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton value="CMOS" onClick={() => setToggle('CMOS')}>CMOS</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>

@@ -89,7 +89,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Harnil Shah</Logo>
+        <Logo>Princey Shah</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -104,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Harnil Shah. All rights reserved.
+          &copy; 2024 Princey Shah. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
